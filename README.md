@@ -65,7 +65,6 @@ Sistem manajemen stok real-time dengan notifikasi otomatis, pelacakan barang mas
 </tr>
 </table>
 
-> Ganti nama, deskripsi, dan tech stack di atas dengan proyek asli kamu. Tambahkan link **Live Demo** dan **Repository** di bawah masing-masing kartu untuk kredibilitas maksimal.
 
 <br/>
 
@@ -112,7 +111,6 @@ Sistem manajemen stok real-time dengan notifikasi otomatis, pelacakan barang mas
 
 </div>
 
-> Sesuaikan badge dengan tools yang benar-benar kamu gunakan di proyek POS & Inventory kamu.
 
 <br/>
 
@@ -125,11 +123,10 @@ Sistem manajemen stok real-time dengan notifikasi otomatis, pelacakan barang mas
 
 <img src="https://streak-stats.demolab.com/?user=harveymoeid&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-trophy.vercel.app/?username=harveymoeid&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
+<img src="https://github-readme-trophy.vercel.app/?username=ppicwkb&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
 
 </div>
 
-> Ganti `harveymoeid` di seluruh URL di atas dengan username GitHub kamu yang sebenarnya agar statistik tampil akurat.
 
 <br/>
 
@@ -143,8 +140,6 @@ Sistem manajemen stok real-time dengan notifikasi otomatis, pelacakan barang mas
 <a href="https://wa.me/62xxxxxxxxxx" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
-
-> Ganti link LinkedIn, Instagram, email, dan WhatsApp dengan milik kamu.
 
 <br/>
 
